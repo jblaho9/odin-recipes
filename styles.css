@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(241, 221, 39, 0.734);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#headline {
+  color: rgb(2, 52, 34);
+  padding: 20px;
+  font-size: 35px;
+}
+.recipes {
+  margin: 20px;
+  font-size: 16px;
+}
+
+.recipes-list {
+  margin: 5px;
+  /* background-color: rgba(2, 52, 34, 0.499); */
+  padding: 5px;
+  margin-right: 60%;
+}
